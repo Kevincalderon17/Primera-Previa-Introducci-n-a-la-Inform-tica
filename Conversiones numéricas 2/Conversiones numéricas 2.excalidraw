@@ -1,0 +1,338 @@
+{
+  "type": "excalidraw",
+  "version": 2,
+  "source": "https://excalidraw.com",
+  "elements": [
+    {
+      "type": "text",
+      "version": 97,
+      "versionNonce": 1915057312,
+      "isDeleted": false,
+      "id": "5SHDSyUnFmkhkJ_arenmi",
+      "fillStyle": "hachure",
+      "strokeWidth": 1,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "angle": 0,
+      "x": 393,
+      "y": 175,
+      "strokeColor": "#000000",
+      "backgroundColor": "transparent",
+      "width": 372,
+      "height": 46,
+      "seed": 221830111,
+      "groupIds": [],
+      "strokeSharpness": "sharp",
+      "boundElementIds": [],
+      "fontSize": 20,
+      "fontFamily": 2,
+      "text": "Taller conversiones numéricas - Parte dos\nKevin Mateo Calderón Serna",
+      "baseline": 41,
+      "textAlign": "left",
+      "verticalAlign": "top"
+    },
+    {
+      "type": "text",
+      "version": 343,
+      "versionNonce": 32897376,
+      "isDeleted": false,
+      "id": "zq6u8I3EklWXPyOddOmC3",
+      "fillStyle": "hachure",
+      "strokeWidth": 1,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "angle": 0,
+      "x": 1121.888888888889,
+      "y": 1381.7777777777778,
+      "strokeColor": "#000000",
+      "backgroundColor": "transparent",
+      "width": 18,
+      "height": 18,
+      "seed": 745006975,
+      "groupIds": [],
+      "strokeSharpness": "sharp",
+      "boundElementIds": [],
+      "fontSize": 16,
+      "fontFamily": 2,
+      "text": "10",
+      "baseline": 14,
+      "textAlign": "left",
+      "verticalAlign": "top"
+    },
+    {
+      "type": "text",
+      "version": 366,
+      "versionNonce": 998821024,
+      "isDeleted": false,
+      "id": "Q-aAGBAJvNHhTQhcUnubR",
+      "fillStyle": "hachure",
+      "strokeWidth": 1,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "angle": 0,
+      "x": 1122,
+      "y": 1336,
+      "strokeColor": "#000000",
+      "backgroundColor": "transparent",
+      "width": 18,
+      "height": 18,
+      "seed": 470520817,
+      "groupIds": [],
+      "strokeSharpness": "sharp",
+      "boundElementIds": [],
+      "fontSize": 16,
+      "fontFamily": 2,
+      "text": "10",
+      "baseline": 14,
+      "textAlign": "left",
+      "verticalAlign": "top"
+    },
+    {
+      "type": "text",
+      "version": 311,
+      "versionNonce": 934268256,
+      "isDeleted": false,
+      "id": "M5wOwNcP6W7bqsMBZ2tgK",
+      "fillStyle": "hachure",
+      "strokeWidth": 1,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "angle": 0,
+      "x": 1104.888888888889,
+      "y": 1294.3333333333335,
+      "strokeColor": "#000000",
+      "backgroundColor": "transparent",
+      "width": 18,
+      "height": 18,
+      "seed": 723296159,
+      "groupIds": [],
+      "strokeSharpness": "sharp",
+      "boundElementIds": [],
+      "fontSize": 16,
+      "fontFamily": 2,
+      "text": "10",
+      "baseline": 14,
+      "textAlign": "left",
+      "verticalAlign": "top"
+    },
+    {
+      "type": "text",
+      "version": 941,
+      "versionNonce": 91725984,
+      "isDeleted": false,
+      "id": "Of8c7nGXXQGDJkTdlX2SL",
+      "fillStyle": "hachure",
+      "strokeWidth": 1,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "angle": 0,
+      "x": 385.5555555555554,
+      "y": 248.55555555555566,
+      "strokeColor": "#000000",
+      "backgroundColor": "transparent",
+      "width": 346,
+      "height": 736,
+      "seed": 1448356063,
+      "groupIds": [],
+      "strokeSharpness": "sharp",
+      "boundElementIds": [],
+      "fontSize": 20,
+      "fontFamily": 2,
+      "text": "2. Realizar las siguientes conversiones\n\na) ( 7 1 )     a base 2 (binario)\n\n71   2\n  1   35   2\n        1    17    2\n               1     8     2\n                      0     4     2\n                             0     2    2\n                                    0    1\n\nR/= 1000111\n\n\nb) ( 1 7 9 )     a base 8 (octal)\n\n179  8\n    3  22  8\n          6  2  8\n               \nR/= 263\n\nc) ( 2 1 3 )     a base 16 (hexadecimal)\n\n213  16\n    5   13\n\n13=D\n\nR/= D5\n",
+      "baseline": 731,
+      "textAlign": "left",
+      "verticalAlign": "top"
+    },
+    {
+      "id": "Y2zKjfBqcQIVDeBTqmZAe",
+      "type": "line",
+      "x": 417.0000000000001,
+      "y": 342.99999999999665,
+      "width": 223.33333333333337,
+      "height": 134.44444444444446,
+      "angle": 0,
+      "strokeColor": "#000000",
+      "backgroundColor": "transparent",
+      "fillStyle": "hachure",
+      "strokeWidth": 1,
+      "strokeStyle": "solid",
+      "roughness": 0,
+      "opacity": 100,
+      "groupIds": [],
+      "strokeSharpness": "sharp",
+      "seed": 1425692000,
+      "version": 299,
+      "versionNonce": 226848096,
+      "isDeleted": false,
+      "boundElementIds": null,
+      "points": [
+        [
+          0,
+          0
+        ],
+        [
+          -1.1111111111110858,
+          17.77777777777783
+        ],
+        [
+          35.55555555555554,
+          20
+        ],
+        [
+          35.55555555555554,
+          45.5555555555556
+        ],
+        [
+          73.33333333333331,
+          45.5555555555556
+        ],
+        [
+          74.44444444444446,
+          65.5555555555556
+        ],
+        [
+          116.66666666666663,
+          64.44444444444446
+        ],
+        [
+          117.77777777777783,
+          87.77777777777783
+        ],
+        [
+          156.66666666666663,
+          87.77777777777783
+        ],
+        [
+          156.66666666666663,
+          111.11111111111114
+        ],
+        [
+          190,
+          111.11111111111114
+        ],
+        [
+          191.1111111111111,
+          134.44444444444446
+        ],
+        [
+          222.22222222222229,
+          134.44444444444446
+        ]
+      ],
+      "lastCommittedPoint": null,
+      "startBinding": null,
+      "endBinding": null,
+      "startArrowhead": null,
+      "endArrowhead": null
+    },
+    {
+      "id": "AjT98obZA6gLLXu7GnFWc",
+      "type": "line",
+      "x": 425.888888888889,
+      "y": 642.9999999999967,
+      "width": 85.55555555555554,
+      "height": 67.77777777777783,
+      "angle": 0,
+      "strokeColor": "#000000",
+      "backgroundColor": "transparent",
+      "fillStyle": "hachure",
+      "strokeWidth": 1,
+      "strokeStyle": "solid",
+      "roughness": 0,
+      "opacity": 100,
+      "groupIds": [],
+      "strokeSharpness": "sharp",
+      "seed": 1918731424,
+      "version": 175,
+      "versionNonce": 1586804896,
+      "isDeleted": false,
+      "boundElementIds": null,
+      "points": [
+        [
+          0,
+          0
+        ],
+        [
+          -1.1111111111110858,
+          17.77777777777783
+        ],
+        [
+          32.22222222222223,
+          18.888888888888914
+        ],
+        [
+          34.44444444444446,
+          43.33333333333337
+        ],
+        [
+          55.5555555555556,
+          44.44444444444446
+        ],
+        [
+          56.666666666666686,
+          67.77777777777783
+        ],
+        [
+          84.44444444444446,
+          67.77777777777783
+        ]
+      ],
+      "lastCommittedPoint": null,
+      "startBinding": null,
+      "endBinding": null,
+      "startArrowhead": null,
+      "endArrowhead": null
+    },
+    {
+      "id": "7uDP3po2pwzkVFPnbIF1U",
+      "type": "line",
+      "x": 428.11111111111126,
+      "y": 825.2222222222189,
+      "width": 32.22222222222223,
+      "height": 23.33333333333337,
+      "angle": 0,
+      "strokeColor": "#000000",
+      "backgroundColor": "transparent",
+      "fillStyle": "hachure",
+      "strokeWidth": 1,
+      "strokeStyle": "solid",
+      "roughness": 0,
+      "opacity": 100,
+      "groupIds": [],
+      "strokeSharpness": "sharp",
+      "seed": 1447352480,
+      "version": 103,
+      "versionNonce": 1700289696,
+      "isDeleted": false,
+      "boundElementIds": null,
+      "points": [
+        [
+          0,
+          0
+        ],
+        [
+          1.1111111111111427,
+          22.222222222222285
+        ],
+        [
+          32.22222222222223,
+          23.33333333333337
+        ]
+      ],
+      "lastCommittedPoint": null,
+      "startBinding": null,
+      "endBinding": null,
+      "startArrowhead": null,
+      "endArrowhead": null
+    }
+  ],
+  "appState": {
+    "gridSize": null,
+    "viewBackgroundColor": "#ffffff"
+  }
+}
